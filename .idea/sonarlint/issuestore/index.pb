@@ -7,3 +7,5 @@ R
 "contracts/coverage-management.clar,d/4/d44f54dc1f2dd67ffa0cd10ba1b30650ebff1c2d
 S
 #contracts/project-verification.clar,8/b/8b9b88a9f67dd8667e5cbd9073febb8c3ffb3e3a
+N
+contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
